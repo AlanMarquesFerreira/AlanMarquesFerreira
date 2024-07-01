@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, sou Alan Marques Ferreira</h1>
-<h3 align="center">Um desenvolvedor frontend</h3>
+<h3 align="center">Um desenvolvedor back e front-end</h3>
 
 <p align="left"> 
 <img src="https://komarev.com/ghpvc/?username=alanmarquesferreira&label=Profile%20views&color=0e75b6&style=flat" alt="alanmarquesferreira" /> </p>
